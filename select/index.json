@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Don't Talk Just Kiss",
+  "base_artist": "Right Said Fred",
+  "createdAt": "2025-12-14T21:10:36.988442Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Talk Just Kiss",
+      "artist": "Right Said Fred",
+      "has_synced": true,
+      "path": "select/01_Don't_Talk_Just_Kiss_Right_Said_Fred.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Talk, Just Kiss",
+      "artist": "The Wedding Present",
+      "has_synced": true,
+      "path": "select/02_Don't_Talk,_Just_Kiss_The_Wedding_Present.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Talk Just Kiss",
+      "artist": "Right Said Fred",
+      "has_synced": false,
+      "path": "select/03_Don't_Talk_Just_Kiss_Right_Said_Fred.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don’t Talk, Just Kiss",
+      "artist": "The Wedding Present",
+      "has_synced": true,
+      "path": "select/04_Don’t_Talk,_Just_Kiss_The_Wedding_Present.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don’t Talk Just Kiss",
+      "artist": "Right Said Fred",
+      "has_synced": true,
+      "path": "select/05_Don’t_Talk_Just_Kiss_Right_Said_Fred.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Talk, Just Kiss (bonus track)",
+      "artist": "Wedding Present",
+      "has_synced": true,
+      "path": "select/06_Don't_Talk,_Just_Kiss_(bonus_track)_Wedding_Present.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Talk, Just Kiss",
+      "artist": "Wedding Present",
+      "has_synced": false,
+      "path": "select/07_Don't_Talk,_Just_Kiss_Wedding_Present.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dont talk just kiss",
+      "artist": "Right Said Fred",
+      "has_synced": false,
+      "path": "select/08_Dont_talk_just_kiss_Right_Said_Fred.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Talk Just Kiss",
+      "artist": "Right Said Fred",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Talk_Just_Kiss_Right_Said_Fred.txt"
+    }
+  ]
+}
